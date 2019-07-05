@@ -1,0 +1,4 @@
+
+
++) Pandas
++) Joins in python and scala
